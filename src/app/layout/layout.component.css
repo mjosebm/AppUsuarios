@@ -1,0 +1,26 @@
+p{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 40px;
+    color: white;
+    background: transparent;
+}
+
+.linea {
+    margin-top: -20px;
+    margin-bottom: 15px;
+}
+
+hr {
+    display: flex;
+    align-items: center;
+    height: 5px;
+    width: 15%;
+    background-color: #F05F44;
+    opacity: 1;
+  }
+
+.layout {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../../assets/img/background.jpg);
+    /* background-size: cover; */
+    height: 100vh;
+}
